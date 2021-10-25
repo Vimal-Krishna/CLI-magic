@@ -7,3 +7,7 @@ The magic is in the "carriage return" control character.
 ```cout << "\r" << s_time.c_str() << flush;```    
 
 ![](simple_clock.gif)
+
+***TODO***
+#### 2. Single Line Progress Bar
+#### 3. Multi Line Progress Bar
